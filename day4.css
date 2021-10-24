@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+
+
+
+.dishes{
+    width: 100%;
+    padding: 40px 0px;
+    background-color: rgb(202, 200, 200);
+}
+
+.container{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.card{
+    width: 40%;
+    background-color: white;
+    display: inline-block;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: 5%;
+    margin-bottom: 40px;
+}
+
+.dish-img{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.image{
+    width: 100%;
+}
+
+.dish-desc{
+   
+    padding: 10px 20px;
+    font-family: calibri;
+}
